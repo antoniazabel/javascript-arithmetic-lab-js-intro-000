@@ -17,3 +17,7 @@ var number = 5.0
 function divide() {
     number /= 2.5
 }
+
+function increment(n) {
+  n += 1
+}
