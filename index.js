@@ -25,3 +25,7 @@ function increment(n) {
 function decrement(n) {
   n -= 1
 }
+
+function makeInt(string) {
+  parseInt('string', '10')
+}
